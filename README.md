@@ -1,0 +1,2 @@
+# amos.waits
+Photography website 
